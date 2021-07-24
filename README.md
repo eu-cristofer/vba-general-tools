@@ -11,3 +11,10 @@ To import the code follow these steps:
 4. Navigate to the file you want to import;
 5. Click Open; and
 6. Have fun!
+
+## Variables naming convetion
+
+* String variable names begin with str (strEmployee)
+* Boolean variable names begin with b (bFlag)
+* Integer variable names begin with i (iCount)
+* Double variable names begin with d (dSalary)
