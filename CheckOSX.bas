@@ -5,9 +5,9 @@ Option Explicit
 ' http://github.com/eu-cristofer/VBA_GeneralTools
 
 Function bCheckOSX() As Boolean
-    ' Function to check if OS is OSX
-    
-
+'
+' Function to check if OS is OSX
+'
     If Application.OperatingSystem Like "*Mac*" Then
         bCheckOSX = True
     Else
