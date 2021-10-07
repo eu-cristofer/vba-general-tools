@@ -1,4 +1,4 @@
-# VBA_GeneralTools
+# VBA General Tools
 General tools for VBA is repository whit blocks of code aiming to ease the development of VBA based solutions.
 
 ## Installing the piece o code
